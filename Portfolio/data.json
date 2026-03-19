@@ -1,0 +1,69 @@
+{
+  "perfil": {
+    "nome": "Leonardo Morais Cruz",
+    "titulo": "Fullstack Developer",
+    "cidade": "Morro Agudo, SP — BR",
+    "telefone": "(16) 99351-7835",
+    "email": "Nowstudy090@gmail.com",
+    "github": "https://github.com/LK-Nocturne",
+    "foto": "https://github.com/LK-Nocturne.png"
+  },
+
+  "skills": [
+    { "nome": "JS",         "classe": "devicon-javascript-plain colored" },
+    { "nome": "TS",         "classe": "devicon-typescript-plain colored" },
+    { "nome": "Python",     "classe": "devicon-python-plain colored" },
+    { "nome": "Node",       "classe": "devicon-nodejs-plain colored" },
+    { "nome": "React",      "classe": "devicon-react-original colored" },
+    { "nome": "Angular",    "classe": "devicon-angularjs-plain colored" },
+    { "nome": "HTML5",      "classe": "devicon-html5-plain colored" },
+    { "nome": "CSS3",       "classe": "devicon-css3-plain colored" },
+    { "nome": "Sass",       "classe": "devicon-sass-original colored" },
+    { "nome": "Tailwind",   "classe": "devicon-tailwindcss-plain colored" },
+    { "nome": "Bootstrap",  "classe": "devicon-bootstrap-plain colored" },
+    { "nome": "Git",        "classe": "devicon-git-plain colored" },
+    { "nome": "GitHub",     "classe": "devicon-github-original" },
+    { "nome": "VSCode",     "classe": "devicon-vscode-plain colored" }
+  ],
+
+  "idiomas": [
+    { "nome": "🇧🇷 Português", "nivel": "NATIVO",      "barra": 100, "cor": "en" },
+    { "nome": "🇺🇸 Inglês",    "nivel": "AVANÇADO C1", "barra": 85,  "cor": "en" },
+    { "nome": "🇪🇸 Espanhol",  "nivel": "BÁSICO A2",   "barra": 25,  "cor": "es" }
+  ],
+
+  "educacao": [
+    {
+      "emoji": "🎓",
+      "titulo": "Bacharelado em Ciência da Computação",
+      "instituicao": "Centro Universitário Uninter",
+      "status": "Cursando — Início 2026"
+    }
+  ],
+
+  "projetos": [
+    {
+      "emoji": "☕",
+      "titulo": "Café Belugas Bays",
+      "descricao": "Site temático com estilização avançada, focado em tipografia e composição visual.",
+      "tags": ["HTML", "CSS", "Sass"],
+      "link": ""
+    },
+    {
+      "emoji": "🐱",
+      "titulo": "ONG Adote Gatos Pretos",
+      "descricao": "Plataforma de adoção de animais com deploy via GitHub Pages.",
+      "tags": ["HTML", "CSS", "GitHub Pages"],
+      "link": ""
+    }
+  ],
+
+  "experiencia": [
+    {
+      "cargo": "Vigilante Patrimonial",
+      "empresa": "Graber Segurança",
+      "local": "Orlândia, SP",
+      "periodo": "2022 – 2025"
+    }
+  ]
+}
